@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud_api" />
+        <module name="springcloud_config_3344" />
+        <module name="springcloud_config_client_3355" />
+        <module name="springcloud_consumer_80" />
+        <module name="springcloud_consumer_feign" />
+        <module name="springcloud_consumer_hystrix_dashboard" />
+        <module name="springcloud_eureka_7001" />
+        <module name="springcloud_provider_8001" />
+        <module name="springcloud_provider_8002" />
+        <module name="springcloud_provider_dept_hystrix_8001" />
+        <module name="springcloud_zuul_gateWay_9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud2018" target="1.8" />
+      <module name="springcloud_api" target="1.8" />
+      <module name="springcloud_config_3344" target="1.8" />
+      <module name="springcloud_config_client_3355" target="1.8" />
+      <module name="springcloud_consumer_80" target="1.8" />
+      <module name="springcloud_consumer_feign" target="1.8" />
+      <module name="springcloud_consumer_hystrix_dashboard" target="1.8" />
+      <module name="springcloud_eureka_7001" target="1.8" />
+      <module name="springcloud_provider_8001" target="1.8" />
+      <module name="springcloud_provider_8002" target="1.8" />
+      <module name="springcloud_provider_dept_hystrix_8001" target="1.8" />
+      <module name="springcloud_zuul_gateWay_9527" target="1.8" />
+      <module name="springcloud_zuul_gateway_9527" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

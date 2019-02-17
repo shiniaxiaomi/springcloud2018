@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud2018.iml" filepath="$PROJECT_DIR$/springcloud2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_api/springcloud_api.iml" filepath="$PROJECT_DIR$/springcloud_api/springcloud_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_config_3344/springcloud_config_3344.iml" filepath="$PROJECT_DIR$/springcloud_config_3344/springcloud_config_3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_config_client_3355/springcloud_config_client_3355.iml" filepath="$PROJECT_DIR$/springcloud_config_client_3355/springcloud_config_client_3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_consumer_80/springcloud_consumer_80.iml" filepath="$PROJECT_DIR$/springcloud_consumer_80/springcloud_consumer_80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_consumer_feign/springcloud_consumer_feign.iml" filepath="$PROJECT_DIR$/springcloud_consumer_feign/springcloud_consumer_feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_consumer_hystrix_dashboard/springcloud_consumer_hystrix_dashboard.iml" filepath="$PROJECT_DIR$/springcloud_consumer_hystrix_dashboard/springcloud_consumer_hystrix_dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_eureka_7001/springcloud_eureka_7001.iml" filepath="$PROJECT_DIR$/springcloud_eureka_7001/springcloud_eureka_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_provider_8001/springcloud_provider_8001.iml" filepath="$PROJECT_DIR$/springcloud_provider_8001/springcloud_provider_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_provider_8002/springcloud_provider_8002.iml" filepath="$PROJECT_DIR$/springcloud_provider_8002/springcloud_provider_8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_provider_dept_hystrix_8001/springcloud_provider_dept_hystrix_8001.iml" filepath="$PROJECT_DIR$/springcloud_provider_dept_hystrix_8001/springcloud_provider_dept_hystrix_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_zuul_gateWay_9527/springcloud_zuul_gateWay_9527.iml" filepath="$PROJECT_DIR$/springcloud_zuul_gateWay_9527/springcloud_zuul_gateWay_9527.iml" />
+    </modules>
+  </component>
+</project>
